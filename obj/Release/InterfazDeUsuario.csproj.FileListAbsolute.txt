@@ -1,0 +1,12 @@
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Release\InterfazDeUsuario.exe.config
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Release\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Release\InterfazDeUsuario.pdb
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.csproj.AssemblyReference.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.Form1.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.Form2.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.Form3.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.Properties.Resources.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.csproj.GenerateResource.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Release\InterfazDeUsuario.pdb

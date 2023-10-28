@@ -1,0 +1,22 @@
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.exe.config
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.pdb
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.AssemblyReference.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Form1.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Properties.Resources.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.GenerateResource.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.pdb
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.exe.config
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\bin\Debug\InterfazDeUsuario.pdb
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.AssemblyReference.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Form1.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Properties.Resources.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.GenerateResource.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.exe
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.pdb
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Form2.resources
+E:\PREPA\TERCER SEMESTRE\PROGRAMACION ORIENTADA A EVENTOS (BARRON)\2do parcial\nuevo barron\InterfazDeUsuario\obj\Debug\InterfazDeUsuario.Form3.resources
